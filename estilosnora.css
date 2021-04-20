@@ -39,15 +39,12 @@
       margin-right: 20px
     }
       
-      .logoHome{
+      #casa{
         width:60px;
         cursor:pointer;
-      }
-      
-      .logoHome:hover{
         transform:scale(1.25);
       }
-      
+
       .divImage{
         text-align:center;
       }
